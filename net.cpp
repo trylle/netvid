@@ -1,6 +1,7 @@
 #include "net.h"
 
 #include <chrono>
+#include <iostream>
 
 #include <boost/lexical_cast.hpp>
 #include <boost/optional/optional_io.hpp>
