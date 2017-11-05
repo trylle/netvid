@@ -1,0 +1,11 @@
+*.swp
+/.ninja_*
+*.o
+*.asm
+*.o.d
+/fb_render
+/fb_render_test
+/pch.h.gch
+/.gdb_history
+/test
+/test_debug
